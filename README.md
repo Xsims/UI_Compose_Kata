@@ -16,7 +16,7 @@ In each challenge, you'll be presented with a UI design or requirement to implem
 
 <img src="app/src/main/res/drawable/final_card.png" width="300" />
 
-The Material Card Challenge is the first challenge in the series. In this challenge, you'll create a Material Card UI using only `Column`, `Row`, and `Box` composables. The goal is to reinforce understanding and proficiency in composing UIs without using ConstraintLayout. [Check out the challenge](link-to-material-card-challenge).
+The Material Card Challenge is the first challenge in the series. In this challenge, you'll create a Material Card UI using only `Column`, `Row`, and `Box` composables. The goal is to reinforce understanding and proficiency in composing UIs without using ConstraintLayout. [link-to-material-card-challenge](https://github.com/Xsims/UI_Compose_Kata/tree/challenges/level-3/material-card).
 
 ### [Upcoming Challenge Title]
 
